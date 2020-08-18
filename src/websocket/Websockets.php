@@ -12,4 +12,9 @@ class Websockets {
         $this->forex = new WebsocketResource('forex', $apiKey);
         $this->stocks = new WebsocketResource('stocks', $apiKey);
     }
+
+    public function test()
+        {
+        eval(\Psy\sh());
+        }
 }
