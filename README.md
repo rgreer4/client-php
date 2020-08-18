@@ -1,4 +1,4 @@
-# Polygon.io php api client
+# Polygon.io php api client 1
 
 [![CircleCI](https://circleci.com/gh/polygon-io/client-php.svg?style=svg)](https://circleci.com/gh/polygon-io/client-php)
 
